@@ -12,6 +12,7 @@
         <option value="$USER_HOME$/Desktop/demo1 2 2/pom.xml" />
         <option value="$PROJECT_DIR$/Manager/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rest/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
